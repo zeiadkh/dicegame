@@ -11,14 +11,13 @@ body {
 
 main {
     background-color: #F5F5F5;
-    height: 400px;
-    max-width: 800px;
     border-radius: 5px;
     padding: 20px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    height: 100dvh;
 }
 
 .title {
@@ -31,6 +30,7 @@ main {
     font-weight: 400;
     margin-top: 0;
     text-align: center;
+    font-size: 1.5rem;
 }
 
 .dice-container {
