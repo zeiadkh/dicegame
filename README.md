@@ -1,4 +1,4 @@
-#live Demo https://tenziesgame-byreact.netlify.app/
+#live Demo [https://tenziesgame-byreact.netlify.app/](https://zeiadkh.github.io/dicegame/)
 ## Tenzies game is a react app that I used 
 + HTML5
 + CSS3
